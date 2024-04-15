@@ -3,4 +3,3 @@
 go build -o condai
 mv condai /usr/local/bin
 sudo mv condai /usr/local/bin
-sudo rm /usr/local/bin/condai
